@@ -2,6 +2,11 @@
 
 Welcome to the GitHub repository for our Battle Robot, an awe-inspiring creation displayed at the prestigious EXMO 2023 event, hosted by the renowned University of Moratuwa. This project represents a thrilling journey undertaken by our dedicated team, demonstrating the cutting-edge power and ingenuity of robotics in an exhilarating competitive setting.
 
+<p align="center">
+  <img src="https://github.com/dojitha-mirihagalla/EXMO---Battle-Bot-/assets/126095827/84631239-3143-4c49-8ef4-07083d7dd7a6" width="500" alt="bot2">
+</p>
+
+
 ---
 ## Overview
 
