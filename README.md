@@ -35,7 +35,20 @@ To bring this incredible creation to life, we carefully selected a range of top-
 
 - **Custom Metal Chassis**: The robust metal chassis forms the backbone of our robot, providing essential support and protection.
 
+---
 ## Code
 
 Curious about the magic behind our robot's movements and weapon control? We've provided the code used to program the Arduino Mega2560 in the 'code' folder of this repository. Feel free to explore and learn and add changes as you like !!!
+
+
+---
+## PCB Design
+
+The PCB design for the Battle Robot is a vital component, optimizing the layout for efficient operation, reliable connections, and improved performance.
+
+This is how it looks like in 3D mode
+<div style="display: flex;">
+  <img src="https://github.com/dojitha-mirihagalla/EXMO---Battle-Bot-/assets/126095827/9435c023-1415-44c8-8369-1b89a88d7db0" width="500" alt="1">
+  <img src="https://github.com/dojitha-mirihagalla/EXMO---Battle-Bot-/assets/126095827/337ab020-b2c4-41c6-89a6-b28b4259c382" width="500" alt="2">
+</div>
 
